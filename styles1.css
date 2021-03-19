@@ -1,5 +1,24 @@
+
+
 body{
-    font-size: 16;
+    
     background-color:orange;
     font: black;
+}
+
+h1{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20;
+}
+
+h2{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 15;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
 }
