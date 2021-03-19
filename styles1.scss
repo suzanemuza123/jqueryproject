@@ -1,7 +1,17 @@
-$base-font-size: 16px;
+
+
+$base-font-size: 20px;
 
 body{
     font-size: $base-font-size;
     background color: orange;
     font color: black;
+}
+
+h1{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 15px;
 }
